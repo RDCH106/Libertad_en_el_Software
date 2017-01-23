@@ -1,0 +1,1720 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "https://web.archive.org/web/20160911101850/http://sysadmin.lliseil.fr/images/linux/tux/tux_gpl_logo_lliseil.png",
+          "type": "Image",
+          "x": 3,
+          "y": 281,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 0
+        },
+        {
+          "TextBox": {},
+          "x": 451,
+          "y": 438,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<div style=\"text-align: center;\"><i>Licencia Creative Commons</i></div><div style=\"text-align: center;\"><i>Atribución-NoComercial 4.0 Internacional</i></div>",
+          "selected": false
+        },
+        {
+          "src": "https://i.creativecommons.org/l/by-nc/4.0/88x31.png",
+          "type": "Image",
+          "x": 569,
+          "y": 534,
+          "scale": {
+            "x": 2.1590909090909087,
+            "y": 2.1590909090909087,
+            "width": 189.99999999999997,
+            "height": 66.93181818181817
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 388,
+          "y": 145,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 50,
+          "text": "<div style=\"text-align: center;\"><b>Libertad en el Software</b></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 436,
+          "y": 206,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">por</div><font><div style=\"text-align: center;\">Rubén de Celis Hernández</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -1.57,
+      "rotateZ": -1.58,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 206,
+      "y": 478,
+      "markdown": "",
+      "background": "img:https://wallpaperscraft.com/image/white_background_dents_bumps_texture_69592_1920x1080.jpg"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 124,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><b>Libertad</b></div>",
+          "size": 115,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 236,
+          "y": 323,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>en</font>",
+          "selected": false,
+          "skewX": -0.5,
+          "skewY": 0.27,
+          "rotate": 0
+        },
+        {
+          "TextBox": {},
+          "x": 338,
+          "y": 329,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>el<br></font>",
+          "selected": false,
+          "skewX": 0.35,
+          "skewY": 0,
+          "rotate": -0.32
+        },
+        {
+          "TextBox": {},
+          "x": 461,
+          "y": 403,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 124,
+          "text": "<font><b><i>Software</i></b></font>",
+          "selected": false
+        },
+        {
+          "src": "http://strut.io/images/5bfbc848.logo.png",
+          "type": "Image",
+          "x": 227,
+          "y": 626,
+          "scale": {
+            "x": 0.7254901960784313,
+            "y": 0.7254901960784313,
+            "width": 185,
+            "height": 41.35294117647059
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 20,
+          "y": 684,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 31,
+          "text": "<font>Powered by</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 311,
+          "y": 676,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 31,
+          "text": "<font>+</font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.gst-impress.getsimplethemes.com/data/uploads/impress-js.png",
+          "type": "Image",
+          "x": 230,
+          "y": 709,
+          "scale": {
+            "x": 0.4971428571428571,
+            "y": 0.4971428571428571,
+            "width": 174,
+            "height": 49.71428571428571
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://sdtechnologist.com/wp-content/uploads/2016/07/website-development.png",
+          "type": "Image",
+          "x": 463,
+          "y": 119,
+          "scale": {
+            "x": 0.905109489051095,
+            "y": 0.905109489051095,
+            "width": 496.00000000000006,
+            "height": 346.6569343065694
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 462,
+      "y": 150,
+      "markdown": "",
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 189,
+          "y": 109,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>¿Qué es un programa?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/lDOZfMy.png",
+          "type": "Image",
+          "x": 197,
+          "y": 247,
+          "scale": {
+            "x": 0.5042016806722689,
+            "y": 0.5042016806722689,
+            "width": 660,
+            "height": 430.5882352941176
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 771,
+      "y": 153
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 98,
+          "y": 76,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>La pregunta es...</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 70,
+          "y": 484,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>¿Quién le da las instrucciones<br>a tu máquina?<br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://schmitman.com/wp-content/uploads/2015/08/homer2.png",
+          "type": "Image",
+          "x": 308,
+          "y": 177,
+          "scale": {
+            "x": 0.43921568627450985,
+            "y": 0.43921568627450985,
+            "width": 448.00000000000006,
+            "height": 298.6666666666667
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1076,
+      "y": 145
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 97,
+          "y": 70,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\">La Libertad es tener el <b>control</b></div><font><div style=\"text-align: center;\">de las <b>actividades</b> que&nbsp;</div><div style=\"text-align: center;\">haces en tu vida</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 18,
+          "y": 442,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\">Si usas un programa&nbsp;</div><font><div style=\"text-align: center;\">para tu&nbsp;<b>actividad</b>,</div><div style=\"text-align: center;\">el control de las actividad</div><div style=\"text-align: center;\">requiere el <b>control del programa</b></div></font>",
+          "selected": false
+        },
+        {
+          "src": "http://1.bp.blogspot.com/-AQM97JlEdn0/VU2B8IQUFII/AAAAAAAAABc/bQKHsncG1Io/s1600/desarrollo_web.png",
+          "type": "Image",
+          "x": 737,
+          "y": 274,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1386,
+      "y": 141
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 68,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Existen 2 tipos de programas</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/pbPXgFi.png",
+          "type": "Image",
+          "x": -2,
+          "y": 184,
+          "scale": {
+            "x": 0.2769556025369979,
+            "y": 0.2769556025369979,
+            "width": 524,
+            "height": 416.5412262156449
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/lghoKaK.png",
+          "type": "Image",
+          "x": 518,
+          "y": 189,
+          "scale": {
+            "x": 0.2738611713665943,
+            "y": 0.2738611713665943,
+            "width": 504.99999999999994,
+            "height": 415.9951193058568
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://mascandobits.es/blog/wp-content/uploads/2017/01/FreeSoftware-OpenSource-300x169.png",
+          "type": "Image",
+          "x": 125,
+          "y": 600,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://www.usdigitalpartners.com/wp-content/uploads/Cincinnati-website-designers-e13322547679511.jpg",
+          "type": "Image",
+          "x": 692,
+          "y": 614,
+          "scale": {
+            "x": 0.3941605839416058,
+            "y": 0.3941605839416058,
+            "width": 215.99999999999997,
+            "height": 143.47445255474452
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 766,
+      "y": 368
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 88,
+          "y": 94,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">¿Somos Usuarios?</div>",
+          "size": 47,
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "TextBox": {},
+          "x": 546,
+          "y": 91,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">¿Somos Usados?</div>",
+          "size": 47,
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "src": "http://i.imgur.com/KpMgB5Q.jpg",
+          "type": "Image",
+          "x": 119,
+          "y": 249,
+          "scale": {
+            "x": 0.16666666666666663,
+            "y": 0.16666666666666663,
+            "width": 287.99999999999994,
+            "height": 164.3333333333333
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/LQ84l15.jpg",
+          "type": "Image",
+          "x": 148,
+          "y": 541,
+          "scale": {
+            "x": 0.15508021390374324,
+            "y": 0.15508021390374324,
+            "width": 202.99999999999991,
+            "height": 146.3957219251336
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/LQ84l15.jpg",
+          "type": "Image",
+          "x": 567,
+          "y": 591,
+          "scale": {
+            "x": 0.11535523300229175,
+            "y": 0.11535523300229175,
+            "width": 150.99999999999991,
+            "height": 108.89533995416342
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/IaAJJ73.png",
+          "type": "Image",
+          "x": 704,
+          "y": 454,
+          "scale": {
+            "x": 0.16129032258064516,
+            "y": 0.16129032258064516,
+            "width": 185,
+            "height": 177.25806451612902
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/KpMgB5Q.jpg",
+          "type": "Image",
+          "x": 680,
+          "y": 348,
+          "scale": {
+            "x": 0.11689814814814813,
+            "y": 0.11689814814814813,
+            "width": 201.99999999999997,
+            "height": 115.26157407407405
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/DluDQen.png",
+          "type": "Image",
+          "x": 627,
+          "y": 209,
+          "scale": {
+            "x": 0.12452253628724208,
+            "y": 0.12452253628724208,
+            "width": 162.9999999999999,
+            "height": 208.326203208556
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 1072,
+      "y": 374
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 228,
+          "y": 43,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">El Software no debería</div><font><div style=\"text-align: center;\">oprimir y maltratar</div><div style=\"text-align: center;\">a sus Usuarios&nbsp;</div></font>",
+          "size": 64,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/e5bzukW.png",
+          "type": "Image",
+          "x": 627,
+          "y": 473,
+          "scale": {
+            "x": 0.2726613488034808,
+            "y": 0.2726613488034808,
+            "width": 376.00000000000006,
+            "height": 269.66207396664254
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/yXK1as6.png",
+          "type": "Image",
+          "x": 668,
+          "y": 269,
+          "scale": {
+            "x": 0.3768961493582264,
+            "y": 0.3768961493582264,
+            "width": 323.00000000000006,
+            "height": 259.681446907818
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/Ja6HGxu.png",
+          "type": "Image",
+          "x": 58,
+          "y": 339,
+          "scale": {
+            "x": 0.5386012715712989,
+            "y": 0.5386012715712989,
+            "width": 593.0000000000001,
+            "height": 375.94368755676663
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 1379,
+      "y": 373
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/XteoKUl.jpg",
+          "type": "Image",
+          "x": 58,
+          "y": 237,
+          "scale": {
+            "x": 0.18567355666429075,
+            "y": 0.18567355666429075,
+            "width": 520.9999999999999,
+            "height": 408.48182466143965
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 136,
+          "y": 65,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>Y mucho menos vendernos...</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/qisTqpv.jpg",
+          "type": "Image",
+          "x": 604,
+          "y": 272,
+          "scale": {
+            "x": 0.2312461252324861,
+            "y": 0.2312461252324861,
+            "width": 373.0000000000001,
+            "height": 416.70551766894
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1684,
+      "y": 373
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 149,
+          "y": 48,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\">Sistema de Poder Injusto&nbsp;</div>",
+          "selected": false
+        },
+        {
+          "src": "http://2.bp.blogspot.com/-u5Vo1b7XjBk/UKMUMxD5maI/AAAAAAAAAwk/75UlU-pgq54/s1600/Richard+Stallman+(2).jpg",
+          "type": "Image",
+          "x": 393,
+          "y": 177,
+          "scale": {
+            "x": 0.8933333333333333,
+            "y": 0.8933333333333333,
+            "width": 268,
+            "height": 321.59999999999997
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 88,
+          "y": 545,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 63,
+          "text": "<div style=\"text-align: center;\"><a href=\"https://vimeo.com/193359648\" target=\"_blank\">Richard Stallman</a> lo acuñó como:&nbsp;</div><div style=\"text-align: center;\">PRIVATIVO</div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 768,
+      "y": 585
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 104,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\">El Software&nbsp;</div><font><div style=\"text-align: center;\">No Propietario o Privativo&nbsp;</div><div style=\"text-align: center;\">tiene 2 vertientes</div></font>",
+          "selected": false
+        },
+        {
+          "src": "http://mascandobits.es/blog/wp-content/uploads/2017/01/GNU-LINUX-1024x567.jpg",
+          "type": "Image",
+          "x": 280,
+          "y": 296,
+          "scale": {
+            "x": 0.451171875,
+            "y": 0.451171875,
+            "width": 462,
+            "height": 255.814453125
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://mascandobits.es/blog/wp-content/uploads/2017/01/FreeSoftware-OpenSource-300x169.png",
+          "type": "Image",
+          "x": 308,
+          "y": 534,
+          "scale": {
+            "x": 1.4533333333333336,
+            "y": 1.4533333333333336,
+            "width": 436.00000000000006,
+            "height": 245.61333333333337
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1072,
+      "y": 584
+    },
+    {
+      "components": [
+        {
+          "src": "http://mascandobits.es/blog/wp-content/uploads/2017/01/SoftwareLibre-vs-OpenSource.jpg",
+          "type": "Image",
+          "x": 67,
+          "y": -1,
+          "scale": {
+            "x": 0.43994140625000006,
+            "y": 0.43994140625000006,
+            "width": 901.0000000000001,
+            "height": 766.3779296875001
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": true,
+      "active": true,
+      "x": 1384,
+      "y": 585,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 103,
+          "y": 68,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\">Software Libre y Open Source</div><div style=\"text-align: center;\">no es sinónimo de</div><div style=\"text-align: center;\">GRATUITO</div>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/6HEezIf.png",
+          "type": "Image",
+          "x": 60,
+          "y": 196,
+          "scale": {
+            "x": 0.4682875264270613,
+            "y": 0.4682875264270613,
+            "width": 886,
+            "height": 704.3044397463002
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "src": "http://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Money.PNG/Money_Bag_PNG_Clipart_Picture.png?m=1399672800",
+          "type": "Image",
+          "x": 766,
+          "y": 260,
+          "scale": {
+            "x": 0.3888888888888889,
+            "y": 0.3888888888888889,
+            "width": 224,
+            "height": 233.33333333333334
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://userscontent2.emaze.com/images/250f9f42-4b68-474b-b003-8d9321191893/05714b1d0f9dc8400e837cd59d6ae8b8.png",
+          "type": "Image",
+          "x": 55,
+          "y": 281,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 1685,
+      "y": 581
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 109,
+          "y": 54,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 49,
+          "text": "<div style=\"text-align: center;\">Todo el Software Libre es Open Source,</div><div style=\"text-align: center;\">pero no todo el Open Source&nbsp;</div><div style=\"text-align: center;\">es Software Libre</div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 221,
+          "y": 560,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 77,
+          "text": "<font>Ética<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 488,
+          "y": 572,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Pragmatismo</font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.unixstuff.net/images/fsf.png",
+          "type": "Image",
+          "x": 232,
+          "y": 311,
+          "scale": {
+            "x": 0.17750000000000002,
+            "y": 0.17750000000000002,
+            "width": 142.00000000000003,
+            "height": 213.00000000000003
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://www.acornsoftware.net/images/OpenSource/opensourche.png",
+          "type": "Image",
+          "x": 618,
+          "y": 297,
+          "scale": {
+            "x": 0.17999999999999997,
+            "y": 0.17999999999999997,
+            "width": 143.99999999999997,
+            "height": 215.99999999999997
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 562,
+          "y": 673,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 39,
+          "text": "<font>Beneficio técnico</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 1383,
+      "y": 761
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\">Software Libre</div><div style=\"text-align: center;\">4 Libertades</div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 166,
+          "y": 273,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li>Libertad de <b>ejecutar</b> el programa</li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 166,
+          "y": 350,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li>Libertad de <b>estudiar</b> cómo&nbsp;</li></ul>&nbsp; &nbsp; &nbsp; &nbsp;funciona el programa y modificarlo<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 166,
+          "y": 474,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li>Libertad de <b>redistribuir</b>&nbsp;</li></ul>&nbsp; &nbsp; &nbsp; &nbsp;copias del programa<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 166,
+          "y": 596,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li>Libertad de <b>mejorar</b> el programa</li></ul>",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Gnu_meditate_levitate.png",
+          "type": "Image",
+          "x": 630,
+          "y": 12,
+          "scale": {
+            "x": 0.22812500000000002,
+            "y": 0.22812500000000002,
+            "width": 292,
+            "height": 253.675
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 2016,
+      "y": 584
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/cfuaXl5.png",
+          "type": "Image",
+          "x": 144,
+          "y": 52,
+          "scale": {
+            "x": 0.3653372722796653,
+            "y": 0.3653372722796653,
+            "width": 742.0000000000002,
+            "height": 549.4672575086166
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 189,
+          "y": 643,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 50,
+          "text": "<font>Como quieras para cualquier fin</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 2330,
+      "y": 585
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/jjmNccp.png",
+          "type": "Image",
+          "x": 214,
+          "y": 27,
+          "scale": {
+            "x": 0.42377260981912146,
+            "y": 0.42377260981912146,
+            "width": 656,
+            "height": 551.7519379844962
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 118,
+          "y": 574,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 51,
+          "text": "<div style=\"text-align: center;\">Estudiar el <b>código fuente</b> y cambiarlo</div><div style=\"text-align: center;\">para hacer la actividad informática</div><div style=\"text-align: center;\">como quieras</div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 2330,
+      "y": 792
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/23l5dnL.png",
+          "type": "Image",
+          "x": 171,
+          "y": 123,
+          "scale": {
+            "x": 0.42054380664652563,
+            "y": 0.42054380664652563,
+            "width": 695.9999999999999,
+            "height": 521.4743202416918
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 86,
+          "y": 45,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 62,
+          "text": "<font>¿Qué aspecto tiene un programa?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 2631,
+      "y": 794
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 189,
+          "y": 64,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\">Imposibilidad de cambiar</div><font><div style=\"text-align: center;\">un programa sin hacer</div><div style=\"text-align: center;\">Ingenieria Inversa</div></font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/egWxITe.jpg",
+          "type": "Image",
+          "x": 267,
+          "y": 315,
+          "scale": {
+            "x": 0.3413897280966767,
+            "y": 0.3413897280966767,
+            "width": 565,
+            "height": 423.32326283987913
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 2929,
+      "y": 796
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/xj44IYp.png",
+          "type": "Image",
+          "x": 82,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 3232,
+      "y": 795
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/jejPrlf.jpg",
+          "type": "Image",
+          "x": 149,
+          "y": 155,
+          "scale": {
+            "x": 0.38404726735598227,
+            "y": 0.38404726735598227,
+            "width": 780,
+            "height": 434.35745937961593
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 162,
+          "y": 49,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>¿No eres programador?</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 185,
+          "y": 608,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 58,
+          "text": "<div style=\"text-align: center;\">También mereces el control</div><div style=\"text-align: center;\">de tu informática</div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 3532,
+      "y": 798
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/brUMQif.jpg",
+          "type": "Image",
+          "x": 264,
+          "y": 124,
+          "scale": {
+            "x": 0.24147121535181235,
+            "y": 0.24147121535181235,
+            "width": 452.99999999999994,
+            "height": 467.9712153518123
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 222,
+          "y": 33,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Control Colectivo</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 146,
+          "y": 630,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 60,
+          "text": "<font>Requiere de 2 libertades más</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 3842,
+      "y": 796
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/pdqotQu.png",
+          "type": "Image",
+          "x": 201,
+          "y": 21,
+          "scale": {
+            "x": 0.3921327596803934,
+            "y": 0.3921327596803934,
+            "width": 638.0000000000001,
+            "height": 613.2956361401352
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 138,
+          "y": 631,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 50,
+          "text": "<div style=\"text-align: center;\">Hacer copias exactas para regalarlas</div><font><div style=\"text-align: center;\">o venderlas a los demás</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 2330,
+      "y": 1007
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/6aNl3Ku.png",
+          "type": "Image",
+          "x": 214,
+          "y": 26,
+          "scale": {
+            "x": 0.3804548248309773,
+            "y": 0.3804548248309773,
+            "width": 619.0000000000001,
+            "height": 595.0313460356485
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 101,
+          "y": 622,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 50,
+          "text": "<div style=\"text-align: center;\">Hacer copias tus versiones modificadas</div><div style=\"text-align: center;\">para regalarlas o venderlas a los demás</div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 2326,
+      "y": 1236
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 57,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Los Gobiernos deberían usar&nbsp;</div><div style=\"text-align: center;\">Software Libre por su&nbsp;</div><div style=\"text-align: center;\">valor Ético&nbsp;</div>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 164,
+          "y": 540,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font><a href=\"https://www.gnu.org/philosophy/government-free-software.html\" target=\"_blank\">Soberanía Informática</a><br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://vignette4.wikia.nocookie.net/hieloyfuego/images/b/bd/Corona.png/revision/latest?cb=20150423220202",
+          "type": "Image",
+          "x": 361,
+          "y": 320,
+          "scale": {
+            "x": 0.69,
+            "y": 0.69,
+            "width": 276,
+            "height": 226.32
+          },
+          "imageType": "PNG/REVISION/LATEST",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 651,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Evitar que se produzca discriminación de cara a la ciudadanía</div><div style=\"text-align: center;\">por su elección tecnológica</div>",
+          "size": 36,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 2326,
+      "y": 1476
+    },
+    {
+      "components": [
+        {
+          "src": "https://lh3.googleusercontent.com/LplFoNaXdeZRKAjQK4QwXpLWcVSEYipm4ujW6LNiwpVdcxH2_qiIdHUiffiFxskuC7cAfpzy=s630-fcrop64=1,1b901aaadae1da2d",
+          "type": "Image",
+          "x": 113,
+          "y": 239,
+          "scale": {
+            "x": 1.253968253968254,
+            "y": 1.253968253968254,
+            "width": 790,
+            "height": 445.1587301587302
+          },
+          "imageType": "COM/LPLFONAXDEZRKAJQK4QWXPLWCVSEYIPM4UJW6LNIWPVDCXH2_QIIDHUIFFIFXSKUC7CAFPZY=S630-FCROP64=1,1B901AAADAE1DA2D",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 72,
+          "y": 46,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "¿Pero cómo busco <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; alternativas?<br>",
+          "selected": false
+        },
+        {
+          "src": "http://www.maderapaloma.com/imagenes/tux_question.png",
+          "type": "Image",
+          "x": 747,
+          "y": 14,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 405,
+          "y": 697,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font><a href=\"http://alternativeto.net/\" target=\"_blank\">alternativeto.net</a></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 224,
+      "y": 915
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 155,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div style=\"text-align: center;\"><b>Visita la sección de <a href=\"http://mascandobits.es/software-libre/\" target=\"_blank\">Software Libre</a> en mi blog</b></div><div style=\"text-align: center;\"><a href=\"http://mascandobits.es/\" target=\"_blank\"><b>Mascando Bits</b></a></div>",
+          "selected": false
+        },
+        {
+          "src": "http://mascandobits.es/blog/wp-content/uploads/2016/02/Mascando_Bits_banner.jpg",
+          "type": "Image",
+          "x": 85,
+          "y": 442,
+          "scale": {
+            "x": 1.6618181818181816,
+            "y": 1.6618181818181816,
+            "width": 456.99999999999994,
+            "height": 124.63636363636363
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://avatars.githubusercontent.com/u/1483414?v=3?s=56",
+          "type": "Image",
+          "x": 625,
+          "y": 345,
+          "scale": {
+            "x": 0.7130434782608697,
+            "y": 0.7130434782608697,
+            "width": 328.00000000000006,
+            "height": 328.00000000000006
+          },
+          "imageType": "COM/U/1483414?V=3",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 246,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 61,
+          "text": "<font><b>Para más información</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 3.14,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "x": 539,
+      "y": 914,
+      "background": "img:https://wallpaperscraft.com/image/white_background_dents_bumps_texture_69592_1920x1080.jpg"
+    }
+  ],
+  "background": "bg-solid-light",
+  "activeSlide": {
+    "components": [
+      {
+        "src": "http://mascandobits.es/blog/wp-content/uploads/2017/01/SoftwareLibre-vs-OpenSource.jpg",
+        "type": "Image",
+        "x": 67,
+        "y": -1,
+        "scale": {
+          "x": 0.43994140625000006,
+          "y": 0.43994140625000006,
+          "width": 901.0000000000001,
+          "height": 766.3779296875001
+        },
+        "imageType": "JPG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 11,
+    "selected": true,
+    "active": true,
+    "x": 1384,
+    "y": 585,
+    "background": "bg-transparent"
+  },
+  "fileName": "Libertad en el Software",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 2024,
+  "overviewY": 808.5
+}
