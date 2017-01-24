@@ -1,5 +1,5 @@
 # Libertad en el Software
-Presentación realizada con Strut e impress.js
+Presentación realizada con [Strut](https://github.com/tantaman/Strut) e [impress.js](https://github.com/impress/impress.js/)
 
 ### [Ver Presentación](https://cdn.rawgit.com/RDCH106/Libertad_en_el_Software/1b476e94/Libertad_en_el_Software.html#/step-1)
 
